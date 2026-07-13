@@ -20,8 +20,8 @@ nav{
     justify-content: space-between;
     align-items: center;
     width: 90%;
-    margin: 30px auto;
-    padding: 20px 40px;
+    margin: 20px auto;
+    padding: 10px 20px;
 }
 
 .navbaritem ul{
@@ -42,4 +42,32 @@ nav{
     justify-content: center;
     text-align: center;
     align-items: center;
+    height: 786px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("./assets/banner.jpg")
+}
+
+.hero-con{
+    max-width: 750px;
+}
+
+.hero-con h1{
+    font-size: 70px;
+    font-weight: 750;
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+
+.hero-con p{
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+
+.hb{
+    padding: 20px 40px;
+    font-size: 20px;
+    margin-top: 300px;
 }
