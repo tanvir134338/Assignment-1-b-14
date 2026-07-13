@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.commonbtn{
+    border: none;
+    border-radius: 10px;
+    background-color: #1D4ED8;
+    color: white;
+    cursor: pointer;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+}
+/* Nav Bar design */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 30px auto;
+    padding: 20px 40px;
+}
+
+.navbaritem ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    color: #575757;
+}
+
+.nb{
+    padding: 15px 30px;
+    font-size: 15px;
+}
+
+/* hero section design */
+.hero{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
