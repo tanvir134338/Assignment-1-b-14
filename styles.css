@@ -99,3 +99,132 @@ nav{
     width: 90%;
     margin: 100px auto;
 }
+/* price section design */
+
+.price{
+    max-width: 1200px;
+    width: 90%;
+    margin: 100px auto;
+}
+.price h2{
+text-align: center;
+font-size: 60px;
+color: #0D1B2A;
+margin-bottom: 10px;
+}
+.price p{
+    text-align: center;
+    color: #575757;
+    margin-bottom: 50px;
+}
+.price-con{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+.p-card-s{
+    border: 1px solid rgb(230, 226, 226);
+    border-radius: 10px;
+    padding: 30px;
+}
+.p-card-p{
+    border: 1px solid #0D1B2A;
+    background-color: #0D1B2A;
+    color: white;
+    border-radius: 10px;
+    padding: 30px;
+}
+.p-card-t{
+    border: 1px solid rgb(230, 226, 226);
+    background-color: #f0f0f1;
+    border-radius: 10px;
+    padding: 30px;
+}
+.p-card-s h5{
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: #77777b;
+}
+.p-card-p h5{
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: #83a1f3;
+}
+.p-card-t h5{
+    font-size: 15px;
+    margin-bottom: 10px;
+    color: #77777b;
+}
+.p-card-s h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.p-card-p h1{
+     font-size: 40px;
+    margin-bottom: 10px;
+}
+.p-card-t h1{
+     font-size: 40px;
+    margin-bottom: 10px;
+}
+.p-card-s h6{
+    border-bottom: 1px solid #dcdcde;
+    padding-bottom: 15px;
+    color: #77777b;
+    font-size: 15px;
+}
+.p-card-p h6{
+    border-bottom: 1px solid #dcdcde;
+    padding-bottom: 15px;
+    color: #CBD5E1;
+    font-size: 15px;
+}
+.p-card-t h6{
+    border-bottom: 1px solid #dcdcde;
+    padding-bottom: 15px;
+    color: #77777b;
+    font-size: 15px;
+}
+.p-card-s ul{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+.p-card-p ul{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+.p-card-t ul{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+.p-card-s ul li{
+    margin-bottom: 15px;
+    color: #383838;
+}
+.p-card-p ul li{
+    margin-bottom: 15px;
+    color: #d0d0d0;
+}
+.p-card-t ul li{
+    margin-bottom: 15px;
+    color: #383838;
+}
+.pb1, .pb2, .pb3{
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.pb1{
+    border-color: #008cff;
+    color: #008cff;
+}
+
