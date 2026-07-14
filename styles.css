@@ -283,3 +283,27 @@ margin-bottom: 10px;
 }
 
 /* FAQ Section */
+.faq{
+    max-width: 1000px;
+    width: 90%;
+    margin: 100px auto;
+}
+.faq h2{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.faq-con{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+.faq-i{
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.faq-i h3{
+    margin-bottom: 10px;
+}
