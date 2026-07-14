@@ -228,3 +228,58 @@ margin-bottom: 10px;
     color: #008cff;
 }
 
+/* schedule section style */
+.time{
+    max-width: 1200px;
+    width: 90%;
+    margin: 100px auto;
+}
+
+.time h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #0D1B2A;
+}
+.schedule-title{
+    text-align: center;
+    margin: 20px 5px 60px 5px;
+    color: #575757;
+}
+
+.schedule-con{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+.schedule-card{
+    border: 1px solid #e6e6e6 ;
+    border-radius: 10px;
+    padding: 30px;
+}
+.an{
+     background:#0D1B2A;
+    color:rgb(232, 232, 232);
+}
+
+.ano{
+    background-color: #f0f0f0;
+}
+
+.schedule-card h3 {
+    margin-bottom: 20px;
+}
+
+.schedule-card ul{
+    padding-left: 20px;
+}
+
+.schedule-card h4{
+    margin-bottom: 10px;
+    color: #8d8c8c;
+}
+.an h3{
+    color: #83a1f3;
+}
+
+/* FAQ Section */
