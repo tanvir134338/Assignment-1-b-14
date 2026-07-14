@@ -1,1 +1,9 @@
+
+
+
+
+
 I have used this promt for the missing part idea:What can I put in the missing area of the landing page so that it can be relavent in the position. This page is about DevConference 2026. Which kind of section I shoud add so that it looks complete.
+
+
+
